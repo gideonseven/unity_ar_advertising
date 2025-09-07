@@ -2,6 +2,13 @@
 
 This is a project task for 7009ICT Griffith University
 
+
+# Team Member
+- [Gideon Tobing ](https://www.linkedin.com/in/gideon-tobing/)
+- [Rohit Dangol ](https://www.linkedin.com/in/rohit-dangol-7ab96918b/)
+- [Bowen Wang ](https://www.linkedin.com/)
+
+
 ## Screenshot
 <p align="center">
   <img src="images/image1.jpg" alt="Splash Screen" width="200"/>
